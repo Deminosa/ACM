@@ -1,0 +1,7 @@
+name: ACM API - Lezora
+author: Deminosa
+main: de.deminosa.lezora.acm
+version: 1.16.5-0.0.1
+api-version: 1.16
+load: STARTUP
+prefix: ACM-API
